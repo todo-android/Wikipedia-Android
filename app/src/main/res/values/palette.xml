@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="img_no_thumbnail">@color/black</color>
+    <color name="img_refresh">@color/black</color>
+    <color name="border_horizontal">@color/grey_82</color>
+</resources>

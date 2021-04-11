@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wikipedia</string>
+    <string name="msg_empty">Empty</string>
+    <string name="msg_no_network">No Network</string>
+    <string name="msg_no_result">No Result</string>
+    <string name="splash_title">Wikipedia</string>
+</resources>

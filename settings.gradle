@@ -1,0 +1,3 @@
+include ':oohttp'
+include ':app'
+rootProject.name = "Wikipedia-Android"
